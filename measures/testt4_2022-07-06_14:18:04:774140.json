@@ -1,0 +1,65 @@
+{
+  "global": {
+    "filename": "testt4",
+    "number_of_part": 7,
+    "protocol": "atlas"
+  },
+  "local": {
+    "0": {
+      "totalTime": 2.77131,
+      "transferTime": 2.69055,
+      "transferData": 92.8845,
+      "localDataSent": 101.285,
+      "localRound": 1718.0,
+      "globalDataSent": 416.071
+    },
+    "1": {
+      "totalTime": 2.77143,
+      "transferTime": 2.69076,
+      "transferData": 58.7043,
+      "localDataSent": 61.5044,
+      "localRound": 1718.0,
+      "globalDataSent": 416.071
+    },
+    "2": {
+      "totalTime": 2.7654,
+      "transferTime": 2.6847,
+      "transferData": 58.7043,
+      "localDataSent": 61.5044,
+      "localRound": 1718.0,
+      "globalDataSent": 416.071
+    },
+    "3": {
+      "totalTime": 2.77225,
+      "transferTime": 2.69073,
+      "transferData": 58.7042,
+      "localDataSent": 61.5043,
+      "localRound": 1718.0,
+      "globalDataSent": 416.071
+    },
+    "4": {
+      "totalTime": 2.77186,
+      "transferTime": 2.69077,
+      "transferData": 42.4242,
+      "localDataSent": 44.1042,
+      "localRound": 1659.0,
+      "globalDataSent": 416.071
+    },
+    "5": {
+      "totalTime": 2.76548,
+      "transferTime": 2.68471,
+      "transferData": 41.4042,
+      "localDataSent": 43.0842,
+      "localRound": 1659.0,
+      "globalDataSent": 416.071
+    },
+    "6": {
+      "totalTime": 2.77176,
+      "transferTime": 2.69065,
+      "transferData": 41.4042,
+      "localDataSent": 43.0842,
+      "localRound": 1659.0,
+      "globalDataSent": 416.071
+    }
+  }
+}

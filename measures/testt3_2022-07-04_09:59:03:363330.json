@@ -1,0 +1,41 @@
+{
+  "global": {
+    "filename": "testt3",
+    "number_of_part": 4,
+    "protocol": "malicious_shamir"
+  },
+  "local": {
+    "0": {
+      "totalTime": 18.729,
+      "transferTime": 18.715,
+      "transferData": 1328.45,
+      "localDataSent": 1328.93,
+      "localRound": 6749.0,
+      "globalDataSent": 4701.66
+    },
+    "1": {
+      "totalTime": 18.7281,
+      "transferTime": 18.7151,
+      "transferData": 1330.09,
+      "localDataSent": 1330.57,
+      "localRound": 6749.0,
+      "globalDataSent": 4701.66
+    },
+    "2": {
+      "totalTime": 18.7287,
+      "transferTime": 18.7151,
+      "transferData": 1215.82,
+      "localDataSent": 1216.3,
+      "localRound": 6749.0,
+      "globalDataSent": 4701.66
+    },
+    "3": {
+      "totalTime": 18.7277,
+      "transferTime": 18.715,
+      "transferData": 825.381,
+      "localDataSent": 825.861,
+      "localRound": 6749.0,
+      "globalDataSent": 4701.66
+    }
+  }
+}

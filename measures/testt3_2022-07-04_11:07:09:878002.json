@@ -1,0 +1,41 @@
+{
+  "global": {
+    "filename": "testt3",
+    "number_of_part": 4,
+    "protocol": "spdz2k"
+  },
+  "local": {
+    "0": {
+      "totalTime": 109.875,
+      "transferTime": 109.694,
+      "transferData": 7997.03,
+      "localDataSent": 7997.12,
+      "localRound": 65953.0,
+      "globalDataSent": 31321.3
+    },
+    "1": {
+      "totalTime": 109.877,
+      "transferTime": 109.694,
+      "transferData": 7774.64,
+      "localDataSent": 7774.73,
+      "localRound": 47077.0,
+      "globalDataSent": 31321.3
+    },
+    "2": {
+      "totalTime": 109.886,
+      "transferTime": 109.694,
+      "transferData": 7774.64,
+      "localDataSent": 7774.73,
+      "localRound": 47077.0,
+      "globalDataSent": 31321.3
+    },
+    "3": {
+      "totalTime": 109.878,
+      "transferTime": 109.694,
+      "transferData": 7774.64,
+      "localDataSent": 7774.73,
+      "localRound": 47077.0,
+      "globalDataSent": 31321.3
+    }
+  }
+}

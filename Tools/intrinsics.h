@@ -15,8 +15,8 @@
 #define SIMDE_X86_AVX2_ENABLE_NATIVE_ALIASES
 #define SIMDE_X86_SSE2_ENABLE_NATIVE_ALIASES
 #define SIMDE_X86_PCLMUL_ENABLE_NATIVE_ALIASES
-#include "simde/simde/x86/avx2.h"
-#include "simde/simde/x86/clmul.h"
+#include "/opt/homebrew/Cellar/simde/0.7.2/include/simde/x86/avx2.h"
+#include "/opt/homebrew/Cellar/simde/0.7.2/include/simde/x86/clmul.h"
 #include "aes-arm.h"
 #endif
 #endif

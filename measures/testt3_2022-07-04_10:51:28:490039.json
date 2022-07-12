@@ -1,0 +1,41 @@
+{
+  "global": {
+    "filename": "testt3",
+    "number_of_part": 4,
+    "protocol": "mascot"
+  },
+  "local": {
+    "0": {
+      "totalTime": 655.915,
+      "transferTime": 655.827,
+      "transferData": 51021.6,
+      "localDataSent": 51021.7,
+      "localRound": 128941.0,
+      "globalDataSent": 202796.0
+    },
+    "1": {
+      "totalTime": 655.921,
+      "transferTime": 655.827,
+      "transferData": 50591.5,
+      "localDataSent": 50591.5,
+      "localRound": 94993.0,
+      "globalDataSent": 202796.0
+    },
+    "2": {
+      "totalTime": 655.914,
+      "transferTime": 655.827,
+      "transferData": 50591.5,
+      "localDataSent": 50591.5,
+      "localRound": 94993.0,
+      "globalDataSent": 202796.0
+    },
+    "3": {
+      "totalTime": 655.916,
+      "transferTime": 655.827,
+      "transferData": 50591.5,
+      "localDataSent": 50591.5,
+      "localRound": 94993.0,
+      "globalDataSent": 202796.0
+    }
+  }
+}

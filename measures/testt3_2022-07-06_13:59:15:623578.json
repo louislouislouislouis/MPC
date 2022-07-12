@@ -1,0 +1,89 @@
+{
+  "global": {
+    "filename": "testt3",
+    "number_of_part": 10,
+    "protocol": "atlas"
+  },
+  "local": {
+    "0": {
+      "totalTime": 6.44206,
+      "transferTime": 6.24857,
+      "transferData": 173.036,
+      "localDataSent": 189.838,
+      "localRound": 2395.0,
+      "globalDataSent": 905.061
+    },
+    "1": {
+      "totalTime": 6.43459,
+      "transferTime": 6.24175,
+      "transferData": 89.8354,
+      "localDataSent": 93.836,
+      "localRound": 2395.0,
+      "globalDataSent": 905.061
+    },
+    "2": {
+      "totalTime": 6.43628,
+      "transferTime": 6.24374,
+      "transferData": 89.8354,
+      "localDataSent": 93.836,
+      "localRound": 2395.0,
+      "globalDataSent": 905.061
+    },
+    "3": {
+      "totalTime": 6.4348,
+      "transferTime": 6.24213,
+      "transferData": 89.8354,
+      "localDataSent": 93.836,
+      "localRound": 2395.0,
+      "globalDataSent": 905.061
+    },
+    "4": {
+      "totalTime": 6.44264,
+      "transferTime": 6.25295,
+      "transferData": 89.8354,
+      "localDataSent": 93.836,
+      "localRound": 2395.0,
+      "globalDataSent": 905.061
+    },
+    "5": {
+      "totalTime": 6.44242,
+      "transferTime": 6.24913,
+      "transferData": 65.5754,
+      "localDataSent": 67.9758,
+      "localRound": 2309.0,
+      "globalDataSent": 905.061
+    },
+    "6": {
+      "totalTime": 6.43459,
+      "transferTime": 6.24041,
+      "transferData": 65.5754,
+      "localDataSent": 67.9758,
+      "localRound": 2309.0,
+      "globalDataSent": 905.061
+    },
+    "7": {
+      "totalTime": 6.43742,
+      "transferTime": 6.2472,
+      "transferData": 65.5754,
+      "localDataSent": 67.9758,
+      "localRound": 2309.0,
+      "globalDataSent": 905.061
+    },
+    "8": {
+      "totalTime": 6.43593,
+      "transferTime": 6.24208,
+      "transferData": 65.5754,
+      "localDataSent": 67.9758,
+      "localRound": 2309.0,
+      "globalDataSent": 905.061
+    },
+    "9": {
+      "totalTime": 6.44255,
+      "transferTime": 6.24877,
+      "transferData": 65.5754,
+      "localDataSent": 67.9758,
+      "localRound": 2309.0,
+      "globalDataSent": 905.061
+    }
+  }
+}

@@ -1,0 +1,30 @@
+program.use_edabit(True)
+
+# Number of node
+n = $$$[P_NUMBER]$$$
+
+# Init share with private input corresponding to Account
+account = Array(n, sint)
+@for_range(n)
+def f(i):
+    account[i] =  sint(50)
+
+start_timer(1)
+
+# Init share of amount to transfer
+amount_to_transfer = sint(1) # amount to transfer from account A to B
+
+# Execute operation with share (comparison , if efse, addition)
+real_amount_to_transfer = (account[0]>=amount_to_transfer).if_else(amount_to_transfer,0)
+account[1]+= real_amount_to_transfer
+account[0]-= real_amount_to_transfer
+
+stop_timer(1)
+
+# Verify result (in order to see result we need to revel the secret)
+
+
+@for_range(n)
+def f(i):
+    print_ln_to(i,"Account of node %s : %s",i,account[i].reveal_to(i))
+

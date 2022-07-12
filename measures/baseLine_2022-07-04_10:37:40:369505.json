@@ -1,0 +1,49 @@
+{
+  "global": {
+    "filename": "baseLine",
+    "number_of_part": 4,
+    "protocol": "spdz2k"
+  },
+  "local": {
+    "0": {
+      "totalTime": 0.002263,
+      "transferTime": 3e-06,
+      "transferData": 0.0,
+      "reconstructTime": 8.8e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.09366,
+      "localRound": 60.0,
+      "globalDataSent": 0.37464
+    },
+    "1": {
+      "totalTime": 0.002179,
+      "transferTime": 2e-06,
+      "transferData": 0.0,
+      "reconstructTime": 8.8e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.09366,
+      "localRound": 60.0,
+      "globalDataSent": 0.37464
+    },
+    "2": {
+      "totalTime": 0.001957,
+      "transferTime": 2e-06,
+      "transferData": 0.0,
+      "reconstructTime": 4.7e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.09366,
+      "localRound": 60.0,
+      "globalDataSent": 0.37464
+    },
+    "3": {
+      "totalTime": 0.002463,
+      "transferTime": 2e-06,
+      "transferData": 0.0,
+      "reconstructTime": 3e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.09366,
+      "localRound": 60.0,
+      "globalDataSent": 0.37464
+    }
+  }
+}

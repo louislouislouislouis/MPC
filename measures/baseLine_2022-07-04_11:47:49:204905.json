@@ -1,0 +1,49 @@
+{
+  "global": {
+    "filename": "baseLine",
+    "number_of_part": 4,
+    "protocol": "mascot"
+  },
+  "local": {
+    "0": {
+      "totalTime": 0.002812,
+      "transferTime": 4e-06,
+      "transferData": 0.0,
+      "reconstructTime": 6.9e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.074928,
+      "localRound": 48.0,
+      "globalDataSent": 0.299712
+    },
+    "1": {
+      "totalTime": 0.002805,
+      "transferTime": 4e-06,
+      "transferData": 0.0,
+      "reconstructTime": 6.9e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.074928,
+      "localRound": 48.0,
+      "globalDataSent": 0.299712
+    },
+    "2": {
+      "totalTime": 0.00281,
+      "transferTime": 6e-06,
+      "transferData": 0.0,
+      "reconstructTime": 7.3e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.074928,
+      "localRound": 48.0,
+      "globalDataSent": 0.299712
+    },
+    "3": {
+      "totalTime": 0.0027,
+      "transferTime": 6e-06,
+      "transferData": 0.0,
+      "reconstructTime": 6.8e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.074928,
+      "localRound": 48.0,
+      "globalDataSent": 0.299712
+    }
+  }
+}

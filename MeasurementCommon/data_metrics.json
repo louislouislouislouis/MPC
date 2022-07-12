@@ -1,0 +1,8 @@
+[
+  "totalTime",
+  "transferTime",
+  "transferData",
+  "localDataSent",
+  "globalDataSent",
+  "localRound"
+]

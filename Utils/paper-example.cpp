@@ -41,8 +41,11 @@ int main(int argc, char** argv)
     if (argc > 3)
         protocol = argv[3];
 
-    if (protocol == "MASCOT")
+    if (protocol == "MASCOT"){
+        cout<<protocol<<endl;
         run<Share<gfp_<0, n_limbs>>>(argv, prime_length);
+    }
+    
     else if (protocol == "CowGear")
         run<CowGearShare<gfp_<0, n_limbs>>>(argv, prime_length);
     else if (protocol == "SPDZ2k")
@@ -80,7 +83,6 @@ void run(char** argv, int prime_length)
     int port_base = 9999;
     Names N(my_number, n_parties, "localhost", port_base);
     CryptoPlayer P(N);
-
     // protocol setup (domain, MAC key if needed etc)
     ProtocolSetup<T> setup(P, prime_length);
 
@@ -90,7 +92,7 @@ void run(char** argv, int prime_length)
     auto& protocol = set.protocol;
     auto& output = set.output;
 
-    int n = 1000;
+    int n = 2;
     vector<T> a(n), b(n);
     T c;
     typename T::clear result;
@@ -103,6 +105,9 @@ void run(char** argv, int prime_length)
     {
         a[i] = input.finalize(0);
         b[i] = input.finalize(1);
+        cout<<a[i]<<endl;
+        cout<<endl;
+        cout<<b[i]<<endl;
     }
 
     protocol.init_dotprod();

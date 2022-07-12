@@ -1,0 +1,129 @@
+{
+  "global": {
+    "filename": "baseLine",
+    "number_of_part": 12,
+    "protocol": "atlas"
+  },
+  "local": {
+    "0": {
+      "totalTime": 0.00226,
+      "transferTime": 1e-06,
+      "transferData": 0.0,
+      "reconstructTime": 2.4e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    },
+    "1": {
+      "totalTime": 0.002291,
+      "transferTime": 1e-06,
+      "transferData": 0.0,
+      "reconstructTime": 2e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    },
+    "2": {
+      "totalTime": 0.001294,
+      "transferTime": 1e-06,
+      "transferData": 0.0,
+      "reconstructTime": 2.1e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    },
+    "3": {
+      "totalTime": 0.001691,
+      "transferTime": 1e-06,
+      "transferData": 0.0,
+      "reconstructTime": 2.1e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    },
+    "4": {
+      "totalTime": 0.00152,
+      "transferTime": 2e-06,
+      "transferData": 0.0,
+      "reconstructTime": 7.5e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    },
+    "5": {
+      "totalTime": 0.002222,
+      "transferTime": 2e-06,
+      "transferData": 0.0,
+      "reconstructTime": 4.7e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    },
+    "6": {
+      "totalTime": 0.002123,
+      "transferTime": 1e-06,
+      "transferData": 0.0,
+      "reconstructTime": 2.3e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    },
+    "7": {
+      "totalTime": 0.002378,
+      "transferTime": 2e-06,
+      "transferData": 0.0,
+      "reconstructTime": 2.1e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    },
+    "8": {
+      "totalTime": 0.001982,
+      "transferTime": 2e-06,
+      "transferData": 0.0,
+      "reconstructTime": 2.5e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    },
+    "9": {
+      "totalTime": 0.001692,
+      "transferTime": 3e-06,
+      "transferData": 0.0,
+      "reconstructTime": 2.3e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    },
+    "10": {
+      "totalTime": 0.001575,
+      "transferTime": 1e-06,
+      "transferData": 0.0,
+      "reconstructTime": 2.3e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    },
+    "11": {
+      "totalTime": 0.002541,
+      "transferTime": 3e-06,
+      "transferData": 0.0,
+      "reconstructTime": 0.00011,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    }
+  }
+}

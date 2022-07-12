@@ -1,0 +1,49 @@
+{
+  "global": {
+    "filename": "baseLine",
+    "number_of_part": 4,
+    "protocol": "atlas"
+  },
+  "local": {
+    "0": {
+      "totalTime": 0.000429,
+      "transferTime": 1e-06,
+      "transferData": 0.0,
+      "reconstructTime": 3.4e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    },
+    "1": {
+      "totalTime": 0.000598,
+      "transferTime": 1e-06,
+      "transferData": 0.0,
+      "reconstructTime": 3.3e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    },
+    "2": {
+      "totalTime": 0.000453,
+      "transferTime": 1e-06,
+      "transferData": 0.0,
+      "reconstructTime": 3.2e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    },
+    "3": {
+      "totalTime": 0.000418,
+      "transferTime": 1e-06,
+      "transferData": 0.0,
+      "reconstructTime": 2.6e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    }
+  }
+}

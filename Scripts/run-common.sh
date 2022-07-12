@@ -54,6 +54,6 @@ run_player() {
     done
 }
 
-players=${PLAYERS:-2}
+players=${PLAYERS:-3}
 
 SPDZROOT=${SPDZROOT:-.}

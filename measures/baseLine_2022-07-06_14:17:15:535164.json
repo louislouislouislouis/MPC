@@ -1,0 +1,109 @@
+{
+  "global": {
+    "filename": "baseLine",
+    "number_of_part": 10,
+    "protocol": "atlas"
+  },
+  "local": {
+    "0": {
+      "totalTime": 0.001763,
+      "transferTime": 1e-06,
+      "transferData": 0.0,
+      "reconstructTime": 3e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    },
+    "1": {
+      "totalTime": 0.001151,
+      "transferTime": 1e-06,
+      "transferData": 0.0,
+      "reconstructTime": 1.8e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    },
+    "2": {
+      "totalTime": 0.001266,
+      "transferTime": 1e-06,
+      "transferData": 0.0,
+      "reconstructTime": 3.5e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    },
+    "3": {
+      "totalTime": 0.001358,
+      "transferTime": 1e-06,
+      "transferData": 0.0,
+      "reconstructTime": 2.2e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    },
+    "4": {
+      "totalTime": 0.002048,
+      "transferTime": 2e-06,
+      "transferData": 0.0,
+      "reconstructTime": 2.3e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    },
+    "5": {
+      "totalTime": 0.001622,
+      "transferTime": 4e-06,
+      "transferData": 0.0,
+      "reconstructTime": 8.1e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    },
+    "6": {
+      "totalTime": 0.001055,
+      "transferTime": 1e-06,
+      "transferData": 0.0,
+      "reconstructTime": 3.2e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    },
+    "7": {
+      "totalTime": 0.001446,
+      "transferTime": 1e-06,
+      "transferData": 0.0,
+      "reconstructTime": 9.1e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    },
+    "8": {
+      "totalTime": 0.001193,
+      "transferTime": 0.0,
+      "transferData": 0.0,
+      "reconstructTime": 2e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    },
+    "9": {
+      "totalTime": 0.002295,
+      "transferTime": 3e-06,
+      "transferData": 0.0,
+      "reconstructTime": 1.9e-05,
+      "reconstructData": 0.0,
+      "localDataSent": 0.0,
+      "localRound": 0.0,
+      "globalDataSent": 0.0
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "malicious_shamir": {
+    "label": "Malicious Shamir",
+    "program": "./malicious-shamir-party.x",
+    "analyse": true,
+    "experiment": false,
+    "ring": false
+  },
+  "mascot": {
+    "label": "MASCOT",
+    "program": "./mascot-party.x",
+    "analyse": true,
+    "experiment": false,
+    "ring": false
+  },
+  "spdz2k": {
+    "label": "Spdz2k",
+    "program": "./spdz2k-party.x",
+    "analyse": true,
+    "experiment": false,
+    "ring": true
+  },
+  "atlas": {
+    "label": "ATLAS",
+    "program": "./atlas-party.x",
+    "analyse": true,
+    "experiment": true,
+    "ring": false
+  },
+  "spdzWiseShamir": {
+    "label": "SPDZ-wise Shamir",
+    "note": ["ne marche qu'avec 3?"],
+    "program": "./sy-shamir-party.x",
+    "analyse": false,
+    "experiment": false,
+    "ring": false
+  }
+}

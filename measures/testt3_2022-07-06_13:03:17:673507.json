@@ -1,0 +1,41 @@
+{
+  "global": {
+    "filename": "testt3",
+    "number_of_part": 4,
+    "protocol": "atlas"
+  },
+  "local": {
+    "0": {
+      "totalTime": 0.31542,
+      "transferTime": 0.295094,
+      "transferData": 15.8856,
+      "localDataSent": 18.4459,
+      "localRound": 530.0,
+      "globalDataSent": 48.6629
+    },
+    "1": {
+      "totalTime": 0.315282,
+      "transferTime": 0.295076,
+      "transferData": 13.1955,
+      "localDataSent": 14.4757,
+      "localRound": 530.0,
+      "globalDataSent": 48.6629
+    },
+    "2": {
+      "totalTime": 0.315649,
+      "transferTime": 0.295113,
+      "transferData": 7.48552,
+      "localDataSent": 8.12565,
+      "localRound": 511.0,
+      "globalDataSent": 48.6629
+    },
+    "3": {
+      "totalTime": 0.315337,
+      "transferTime": 0.295131,
+      "transferData": 6.97552,
+      "localDataSent": 7.61564,
+      "localRound": 511.0,
+      "globalDataSent": 48.6629
+    }
+  }
+}
